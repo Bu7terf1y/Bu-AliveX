@@ -36,7 +36,6 @@ python Bu-AliveX.py
 
 ```
 baidu.com
-gpnu.edu.cn
 https://github.com
 ```
 
