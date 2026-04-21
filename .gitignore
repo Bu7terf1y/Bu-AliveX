@@ -13,3 +13,4 @@ result/
 *.csv
 .env
 .venv/
+*.spec

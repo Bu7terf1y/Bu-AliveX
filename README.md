@@ -10,19 +10,34 @@
 - 自动识别网页编码（UTF-8、GBK等）
 - 结果保存为CSV文件
 
-## 安装依赖
+## 快速使用（推荐）
+
+### 1. 下载发布版本
+
+前往 [Releases](https://github.com/Bu7terf1y/Bu-AliveX/releases) 页面下载最新的打包版本（.zip 文件）。
+
+### 2. 解压运行
+
+1. 解压下载的 zip 文件
+2. 进入解压后的目录
+3. 双击运行 `Bu-AliveX.exe`（Windows 系统）
+4. 或在终端中运行：`./Bu-AliveX`（Linux/macOS 系统）
+
+## 源码安装（开发使用）
+
+### 安装依赖
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 使用方法
-
-运行程序：
+### 运行程序
 
 ```bash
 python Bu-AliveX.py
 ```
+
+## 使用方法
 
 选择功能：
 1. 手动输入 - 输入URL，空行结束
