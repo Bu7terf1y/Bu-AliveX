@@ -1,5 +1,5 @@
 # Bu-AliveX
-
+<img width="465" height="217" alt="image" src="https://github.com/user-attachments/assets/575e9ad1-a0e2-4a97-baa0-6142958b05f6" />
 批量检测网站存活状态的工具
 
 ## 功能特性
